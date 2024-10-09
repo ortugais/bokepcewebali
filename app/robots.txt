@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://bokepcewebali.pages.dev/sitemap.xml
